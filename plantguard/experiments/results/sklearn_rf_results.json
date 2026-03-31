@@ -1,6 +1,0 @@
-{
-  "model": "sklearn_rf",
-  "val_acc": 0.125,
-  "val_macro_f1": 0.12193362193362192,
-  "train_time_sec": 1.5630278587341309
-}
